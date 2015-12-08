@@ -1,0 +1,15 @@
+{
+  "name": "d8",
+  "homepage": "https://github.com/papillon-cendre/d8",
+  "authors": [
+    "papillon cendre <papillon.cendre@gmail.com>"
+  ],
+  "description": "d8 theme project",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "latest"
+  }
+}
